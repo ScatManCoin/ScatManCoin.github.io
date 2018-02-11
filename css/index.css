@@ -1,0 +1,53 @@
+.navbar-brand {
+	margin-bottom: -3px;
+}
+
+.text-primary {
+    color: #7A4B00!important;
+}
+
+.btn-primary {
+    color: #fff;
+    border-color: #7A4B00;
+    background-color: #7A4B00;
+    box-shadow: none;
+}
+
+.btn-primary:hover {
+	background-color: #638204;
+	border-color: #638204;
+}
+
+/* 
+you're probably digging through my code looking for more poop jokes, well I'm sorry to say that you won't find any here. 
+if you want more poop jokes go hang out with a local forth grader. you can find one at the elementary school closest to you. 
+i recommend not grooming for at least 3 weeks before you go check it out, they especially like it when you hide in bushes and 
+stare at them during recess
+*/
+
+#about > h3 {
+	margin-top: 2rem !important;
+}
+
+#about > div > div:nth-child(1) > div {
+	margin-bottom: 30px;
+}
+
+.instructions {
+	margin: auto;
+	text-align: center;
+}
+
+.mcpoopee {
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 100%;
+}
+
+.center {
+	margin: 0 auto;
+}
+
+.no-bm {
+	margin-bottom: 0px;
+}
