@@ -55,3 +55,8 @@ stare at them during recess
 #address {
 	word-wrap: break-word;
 }
+
+/* gets rid of the right margin for mobile */
+html, body {
+  overflow-x: hidden;
+}
