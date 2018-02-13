@@ -51,3 +51,7 @@ stare at them during recess
 .no-bm {
 	margin-bottom: 0px;
 }
+
+#address {
+	word-wrap: break-word;
+}
